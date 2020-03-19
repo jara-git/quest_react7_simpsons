@@ -1,0 +1,29 @@
+
+.App-header {
+  
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+
+.new-quote {
+  background-color: rgb(136, 227, 243);
+  color: grey;
+  margin: 2rem;
+  border-radius: 0.5rem;
+  height: 2rem;
+  font-size: medium;
+  font-weight: bold;
+  border: transparent;
+
+}
+
+.new-quote:hover {
+  background-color: hotpink;
+
+}
